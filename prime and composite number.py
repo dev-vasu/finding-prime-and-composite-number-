@@ -1,4 +1,4 @@
-#Python Project (CA-3)
+#Python Project (CA-03)
 def isPrime(num):
     for i in range(2, num):
         if num % i == 0:
